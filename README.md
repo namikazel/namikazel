@@ -1,6 +1,10 @@
-# nasa811
+# Hi there! 👋
 
-Hi there! 👋 Welcome to my GitHub profile!
+<p align="center">
+  <img src="https://media.tenor.com/-rW7zgTPkkwAAAAi/hug.gif" alt="Hug GIF">
+</p>
+
+Welcome to our GitHub profile!
 
 I'm Saiful Miqdar, a passionate student from Yogyakarta, Indonesia. I'm all about coding, anime, and graphic design. I thrive in the world of IT and love exploring new technologies.
 
