@@ -15,13 +15,13 @@ I'm Saiful Miqdar, a passionate student from Yogyakarta, Indonesia. I'm all abou
 - 🌸 Anime lover
 
 🔭 Current Projects:
-- 🌐 Creating a static website at nasa811.github.io
+- 🌐 Creating a static website at namikazel.github.io
 - 🎥 Starting a YouTube channel featuring the amazing journey of Saiful and Nadia
 - 📱 Sharing our beautiful moments on other social media platforms
 
 🌈 Saiful & Nadia's Love Story:
 - ❤️ In a blissful relationship since November 8, 2019
-- 💑 "n" and "a" from Nadia's name, "sa" from Saiful's name
+- 💑 "n" and "a" from Nadia's name, "mi" from Miqdar's name
 - 📆 Our anniversary, a celebration of love
 
 💼 Nadia's Journey:
